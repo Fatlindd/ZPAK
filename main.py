@@ -231,7 +231,7 @@ def _remove_party(idx: int) -> None:
 
 
 def render_input_expander() -> None:
-    with st.expander("⚙️ Parametrat & të dhënat", expanded=True):
+    with st.expander("Parametrat & të dhënat", expanded=True):
         top = st.columns([1.0, 1.0, 1.0])
         with top[0]:
             st.number_input("Numri total i ulëseve", min_value=1, step=1, key="total_seats")
