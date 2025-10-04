@@ -1,0 +1,7 @@
+[theme]
+base = "light"                      # "light" | "dark"
+primaryColor = "#E8564F"            # buttons, active states
+backgroundColor = "#FFFFFF"         # page background
+secondaryBackgroundColor = "#F3F5F9" # containers/expanders
+textColor = "#2B2F36"               # default text
+font = "sans serif"                 # "sans serif" | "serif" | "monospace"
